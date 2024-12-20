@@ -1,0 +1,7 @@
+Country name,score,Log GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,Dystopia + residual,Happiness Category
+Nepal,5.158,0.965,0.99,0.443,0.653,0.209,0.115,1.783,Medium
+Pakistan,4.657,1.069,0.6,0.321,0.542,0.144,0.074,1.907,Medium
+India,4.054,1.166,0.653,0.417,0.767,0.174,0.122,0.756,Medium
+Sri Lanka,3.898,1.361,1.179,0.586,0.583,0.144,0.031,0.014,Medium
+Bangladesh,3.886,1.122,0.249,0.513,0.775,0.14,0.167,0.919,Medium
+Afghanistan,1.721,0.628,0.0,0.242,0.0,0.091,0.088,0.672,Low
